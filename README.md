@@ -3,9 +3,8 @@
 ## Mission
 EzanAi is an AI-powered app which will be helping farmers and other people in the field of agriculture get accurate information about history of crop yield for making decisions related to agricultural risk management and future predictions. Crops yield classification value in hectogram per hectare (Hg/Ha) is got in a certain year according to the crop, weather conditions(Average rain fall per year,temperature) and Pesticides used in tonnes.
 
-
 ## Project Overview
-This project demonstrates the full lifecycle of a Machine Learning classification model, including training, evaluation, deployment, scaling, and monitoring.
+This project demonstrates the full lifecycle of the EzanAi Machine Learning classification model, including training, evaluation, deployment, scaling, and monitoring.
 
 ### Description of dataset
 
@@ -24,7 +23,9 @@ The  dataset used contains agricultural yield data across various regions, crops
 4. **Retraining Trigger** - Users can upload new data and trigger model retraining.
 
 
+
 ## Project Structure
+This repository contains the backend application for EzanAi built with python and FastApi.
 ```
 Project_name/
 │── README.md
@@ -54,10 +55,6 @@ Project_name/
 - Evaluate using accuracy, precision, recall, F1-score, and confusion matrix.
 - Implemented in `src/model.py` and Jupyter Notebook (`notebook/project_name.ipynb`).
 
-##  Deployment & Cloud Integration
-1. **Cloud Deployment**: The model is deployed on [Cloud Platform] using `deployment/cloud_config.yml`.
-2. **API Endpoint**: The model is exposed as an API for making predictions.
-3. **Automated Retraining**: New data can be uploaded and used to retrain the model automatically.
 
 ## 🎯 How to Use
 ### 1️. Running the Model Locally
@@ -81,8 +78,23 @@ http://localhost:8000/docs
 ##  How to run the FASTapi on production
 To run this fastApi you can use the swagger docs through the link[ Swagger UI](https://ezanai.onrender.com/docs)
 
+##  Deployment 
+To deploy the EzanAi we used render
+
 ## How to run this app on frontend
 To efficiently use EzanAI app we also created a user friendly web app which will be helping people to test all functionalities.
-to test it use [ Frontend link](https://ezanai.onrender.com/docs)
+to test it use [ Frontend link](https://crop-yield-predictor-fn.vercel.app/)
+
+## Related screenshot for EzanAi app
+
+## EzanAi Home Page
+
+![image](https://github.com/user-attachments/assets/8057dfef-1c9c-42ec-b1ba-92fb7cbae535)
+
+## EzanAi prediction form
+
+![image](https://github.com/user-attachments/assets/faa85920-ec2f-4cb0-8f4b-17de2abcd8c7)
+
+
 
 
