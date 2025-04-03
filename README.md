@@ -15,6 +15,24 @@ The  dataset used contains agricultural yield data across various regions, crops
 - **High Yield**: Indicates optimal production conditions and farming practices
 - **Medium Yield**: Suggests average production with potential for improvement
 - **Low Yield**: Signals need for intervention in farming practices or conditions
+
+
+### Machine Learning Model Training
+To make EzanAi we trained machine learning model where the best performing model was random forest model by using the following steps:
+
+## Training Steps
+
+1. **Preprocessing:** Cleaned and split the data, applied feature engineering and encoding.
+2. **Model Optimization:** Used a **pretrained model**, **regularization**, **Adam optimizer**, and **early stopping**.
+3. **Hyperparameter Tuning:** Fine-tuned hyperparameters for optimal performance.
+4. **Evaluation:** Assessed the model using **accuracy**, **loss**, **precision**, **recall**, and **F1 score**.
+
+## Run the Model
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+
   
 ## Features
 1. **Model Prediction** - Users can input features to get predictions.
