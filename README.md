@@ -1,8 +1,11 @@
 # Machine Learning Model Deployment Pipeline
 
+## Mission
+EzanAi is an AI-powered app which will be helping farmers and other people in the field of agriculture get accurate information about history of crop yield for making decisions related to agricultural risk management and future predictions. Crops yield classification value in hectogram per hectare (Hg/Ha) is got in a certain year according to the crop, weather conditions(Average rain fall per year,temperature) and Pesticides used in tonnes.
+
+
 ## Project Overview
 This project demonstrates the full lifecycle of a Machine Learning classification model, including training, evaluation, deployment, scaling, and monitoring.
-
 
 ### Description of dataset
 
@@ -75,9 +78,11 @@ python app.py
 http://localhost:8000/docs
 
 
-## 🌐 How to run the FASTapi on production
+##  How to run the FASTapi on production
 To run this fastApi you can use the swagger docs through the link[ Swagger UI](https://ezanai.onrender.com/docs)
 
-
+## How to run this app on frontend
+To efficiently use EzanAI app we also created a user friendly web app which will be helping people to test all functionalities.
+to test it use [ Frontend link](https://ezanai.onrender.com/docs)
 
 
