@@ -40,8 +40,7 @@ Project_name/
 │   ├── test/                    # Testing dataset
 │── models/
 │   ├── yieldclassifier_model.pkl            # Saved ML model 
-│   ├── yieldscaler.pkl             
-             # Dockerfile for containerization                  
+│   ├── yieldscaler.pkl                          
 │── requirements.txt             # Dependencies
 ```
 
