@@ -2,7 +2,7 @@
 
 ## EzanAi Video Demo
 
-To see the EzanAi app demo u can use open[Video demo](https://www.loom.com/share/29fa9468553146b6a9c1810ace51bd49?sid=d26f39b7-d4d7-421d-ac1c-ee8884bae1e9)
+To see the EzanAi app demo you can  open[Video demo](https://www.loom.com/share/29fa9468553146b6a9c1810ace51bd49?sid=d26f39b7-d4d7-421d-ac1c-ee8884bae1e9)
 
 ## Mission
 EzanAi is an AI-powered app which will be helping farmers and other people in the field of agriculture get accurate information about history of crop yield for making decisions related to agricultural risk management and future predictions. Crops yield classification value in hectogram per hectare (Hg/Ha) is got in a certain year according to the crop, weather conditions(Average rain fall per year,temperature) and Pesticides used in tonnes.
