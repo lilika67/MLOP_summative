@@ -1,6 +1,6 @@
 # Machine Learning Model Deployment Pipeline
 
-## EzanAi Videeo Demo
+## EzanAi Video Demo
 
 To see the EzanAi app demo u can use open[Video demo](https://www.loom.com/share/29fa9468553146b6a9c1810ace51bd49?sid=d26f39b7-d4d7-421d-ac1c-ee8884bae1e9)
 
