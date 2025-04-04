@@ -68,7 +68,7 @@ Project_name/
 ### 2️. Model Training & Evaluation
 - Train a classification model offline.
 - Evaluate using accuracy, precision, recall, F1-score, and confusion matrix.
-- Implemented in `src/model.py` and Jupyter Notebook (`notebook/project_name.ipynb`).
+- Implemented in `src/model.py` and Jupyter Notebook (`notebooks/cropyieldclassifier.ipynb`).
 
 
 ## 🎯 How to Use
