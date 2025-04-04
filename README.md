@@ -31,13 +31,7 @@ To make EzanAi we trained machine learning model where the best performing model
 3. **Hyperparameter Tuning:** Fine-tuned hyperparameters for optimal performance.
 4. **Evaluation:** Assessed the model using **accuracy**, **loss**, **precision**, **recall**, and **F1 score**.
 
-## Run the Model
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-
-  
 ## Features
 1. **Model Prediction** - Users can input features to get predictions.
 2. **Data Visualization** - Meaningful visualizations of key dataset features.
@@ -52,7 +46,7 @@ This repository contains the backend application for EzanAi built with python an
 Project_name/
 │── README.md
 │── notebook/
-│   ├── project_name.ipynb       # Jupyter Notebook for model development
+│   ├──cropyieldclassifier.ipynb     # Jupyter Notebook for model development
 │── src/
 │   ├── preprocessing.py         # Data preprocessing functions
 │   ├── model.py                 # Model training and evaluation
@@ -100,11 +94,17 @@ http://localhost:8000/docs
 To run this fastApi you can use the swagger docs through the link[ Swagger UI](https://ezanai.onrender.com/docs)
 
 ##  Deployment 
-To deploy the EzanAi we used render
+To deploy the EzanAi backend we used render and vercel for frontend
+
+## Frontend repository
+
+Link: https://github.com/lilika67/cropYieldPredictor_fn.git
 
 ## How to run this app on frontend
 To efficiently use EzanAI app we also created a user friendly web app which will be helping people to test all functionalities.
 to test it use [ Frontend link](https://crop-yield-predictor-fn.vercel.app/)
+
+
 
 ## Related screenshot for EzanAi app
 
